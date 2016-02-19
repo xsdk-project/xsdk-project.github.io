@@ -1,6 +1,6 @@
 ---
 title: Instructions for Installation
-layout: post
+layout:  default
 ---
 
 Detailed instructions for installing xSDK
