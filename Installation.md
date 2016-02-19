@@ -3,8 +3,9 @@ title: Instructions for Installation
 layout:  default
 ---
 
-##Installing the xSDK libaries
 
+Installing the xSDK libaries
+--
 
   * curl [https://raw.githubusercontent.com/xsdk-project/installxSDK/master/installxSDK.sh](https://raw.githubusercontent.com/xsdk-project/installxSDK/master/installxSDK.sh)  >  installxSDK.sh
   * sh ./installxSDK \-\-prefix=\"installation directory\" [other configure options]
