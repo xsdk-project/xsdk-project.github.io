@@ -4,7 +4,7 @@ layout: default
 ---
 ## Getting Started with xSDK
 
-[Quick Installation Guide](./Installation.html)
+[Quick Installation Guide](http://installxsdk.readthedocs.org/en/latest/README/index.html)
 
 [Running an example from PETSc](./NotYetWritten.html)
 
